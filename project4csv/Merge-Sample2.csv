@@ -1,0 +1,130 @@
+﻿COURSE_ID,DOCUMENT_TYPE,DESCRIPTION
+ACCT 3200,course-create,New Course: ACCT 3200
+ACCT 5010,course-create,New Course: ACCT 5010
+ACCT 5020,course-change,Course Change: ACCT 5020
+ACCT 5030,course-change,Course Change: ACCT 5030
+ACCT 6100,course-change,Course Change: ACCT 6100
+ACCT 6200,course-change,Course Change: ACCT 6200
+ACCT 6250,course-create,New Course: ACCT 6250
+ACCT 6300,course-change,Course Change: ACCT 6300
+ACCT 6400,course-change,Course Change: ACCT 6400
+ACCT 6500,course-change,Course Change: ACCT 6500
+ACCT 6800,course-change,Course Change: ACCT 6800
+AT 5910,course-change,Course Change: AT 5910
+BIOS 1100,course-change,Course Change: BIOS 1100
+BIOS 2225,course-create,New Course: BIOS 2225
+BIOS 4100,course-create,New Course: BIOS 4100 / BIOS 5100
+BIOS 5100,course-create,New Course: BIOS 4100 / BIOS 5100
+CAS 2402,course-create,New Course: CAS 2402
+CAS 5720,course-create,New Course: CAS 5720
+CE 4001,course-create,New Course: CE 4001
+CHE 1100,course-create,New Course: CHE 1100
+CHEM 4610,course-create,New Course: CHEM 4610 / CHEM 5610
+CHEM 5610,course-create,New Course: CHEM 4610 / CHEM 5610
+CONS 3100,course-change,Course Change: CONS 3100
+CONS 3400,course-change,Course Change: CONS 3400
+CONS 3890,course-change,Course Change: CONS 3890
+CONS 4935,course-change,Course Change: CONS 4935
+CONS 4952,course-change,Course Change: CONS 4952 / CONS 5952
+CONS 4961,course-change,Course Change: CONS 4961 / CONS 5961
+CONS 5952,course-change,Course Change: CONS 4952 / CONS 5952
+CONS 5961,course-change,Course Change: CONS 4961 / CONS 5961
+DANC 3150,course-change,Course Change: DANC 3150 to DANC 3150 / DANC 5150
+DANC 3230,course-change,Course Change: DANC 3230 to DANC 3230 / DANC 5230
+DANC 3250,course-change,Course Change: DANC 3250 to DANC 3250 / DANC 5250
+DANC 4750,course-change,Course Change: DANC 4750 to DANC 4750 / DANC 5750
+DANC 5150,course-change,Course Change: DANC 3150 to DANC 3150 / DANC 5150
+DANC 5230,course-change,Course Change: DANC 3230 to DANC 3230 / DANC 5230
+DANC 5250,course-change,Course Change: DANC 3250 to DANC 3250 / DANC 5250
+DANC 5750,course-change,Course Change: DANC 4750 to DANC 4750 / DANC 5750
+EDAD 6000,course-create,New Course: EDAD 6000
+EDPL 3920,course-change,Course Change: EDPL 3920
+EDRE 7710,course-create,New Course: EDRE 7710
+EDTE 3730,course-change,Course Change: EDTE 3730
+ELIP 1300,course-change,Course Change: ELIP 1300
+ETM 3820,course-change,Course Change: ETM 3820
+FILM 2050,course-create,New Course: FILM 2050
+FILM 2060,course-create,New Course: FILM 2060
+FILM 2440,course-create,New Course: FILM 2440
+FILM 3110,course-create,New Course: FILM 3110
+FILM 3120,course-create,New Course: FILM 3120
+FILM 3150,course-create,New Course: FILM 3150
+FILM 3160,course-create,New Course: FILM 3160
+FILM 3450,course-create,New Course: FILM 3450
+FILM 3460,course-create,New Course: FILM 3460
+FILM 3500,course-create,New Course: FILM 3500
+FILM 3750,course-create,New Course: FILM 3750
+FILM 3830,course-create,New Course: FILM 3830
+FILM 3840,course-create,New Course: FILM 3840
+FILM 4110,course-create,New Course: FILM 4110
+FILM 4120,course-create,New Course: FILM 4120
+FILM 4140,course-create,New Course: FILM 4140
+FIN 4480,course-create,New Course: FIN 4480
+GEOG 2710,course-change,Course Change: GEOG 2710
+GEOG 3031,course-create,New Course: GEOG 3031
+HIST 4130,course-create,New Course: HIST 4130
+HLTH 6001,course-create,New Course: HLTH 6001
+IART 4710,course-create,New Course: IART 4710
+IHS 4710,course-create,New Course: IHS 4710 / IHS 5710
+IHS 5710,course-create,New Course: IHS 4710 / IHS 5710
+INST 2970T,course-create,New Course: INST 2970T
+INST 2971T,course-create,New Course: INST 2971T
+INST 2980T,course-create,New Course: INST 2980T
+INST 2981T,course-create,New Course: INST 2981T
+INST 3970T,course-create,New Course: INST 3970T
+INST 3980T,course-create,New Course: INST 3980T
+INST 4970T,course-create,New Course: INST 4970T
+INST 4980T,course-create,New Course: INST 4980T
+LING 4870,course-create,New Course: LING 4870 / LING 5870
+LING 5870,course-create,New Course: LING 4870 / LING 5870
+ME 4250,course-create,New Course: ME 4250 / ME 5250
+ME 5250,course-create,New Course: ME 4250 / ME 5250
+MKT 3600,course-create,New Course: MKT 3600
+MPA 5660,course-create,New Course: MPA 5660
+MPA 6000,course-create,New Course: MPA 6000
+MPA 6001,course-create,New Course: MPA 6001
+MUS 3641,course-create,New Course: MUS 3641
+MUS 3700,course-create,New Course: MUS 3700
+MUS 4591,course-create,New Course: MUS 4591
+NRSE 2420,course-create,New Course: NRSE 2420
+NRSE 6010,course-change,Course Change: NRSE 6010
+NRSE 6220,course-change,Course Change: NRSE 6220
+NRSE 6620,course-change,Course Change: NRSE 6620
+NRSE 6805,course-change,Course Change: NRSE 6805 to NRSE 6805 / NRSE 7805
+NRSE 6933,course-change,Course Change: NRSE 6933
+NRSE 6934,course-change,Course Change: NRSE 6934
+NRSE 7805,course-change,Course Change: NRSE 6805 to NRSE 6805 / NRSE 7805
+NUTR 4920,course-change,Course Change: NUTR 4920 / NUTR 5920
+NUTR 4970,course-create,New Course: NUTR 4970
+NUTR 5920,course-change,Course Change: NUTR 4920 / NUTR 5920
+OCOM 6013,course-create,New Course: OCOM 6013
+OCOM 7902,course-create,New Course: OCOM 7902
+PBIO 4380,course-change,Course Change: PBIO 4380 / PBIO 5380
+PBIO 5380,course-change,Course Change: PBIO 4380 / PBIO 5380
+PCOE 5915,course-create,New Course: PCOE 5915
+PCOE 5916,course-create,New Course: PCOE 5916
+PCOE 5917,course-create,New Course: PCOE 5917
+PCOE 5918,course-create,New Course: PCOE 5918
+PSY 4330,course-create,New Course: PSY 4330
+PT 8924,course-create,New Course: PT 8924
+REC 4570,course-create,New Course: REC 4570 / REC 5570
+REC 5570,course-create,New Course: REC 4570 / REC 5570
+RFPD 1100,course-change,Course Change: RFPD 1100
+RHT 2990,course-change,Course Change: RHT 2990
+RHT 3620,course-change,Course Change: RHT 3620 / RHT 5620
+RHT 4000,course-change,Course Change: RHT 4000
+RHT 4920,course-change,Course Change: RHT 4920
+RHT 5620,course-change,Course Change: RHT 3620 / RHT 5620
+SW 6810,course-create,New Course: SW 6810
+T3 4725,course-change,Course Change: T3 4725
+T3 4750,course-change,Course Change: T3 4750
+TBS 6940,course-change,Course Change: TBS 6940
+THAR 2140C,course-create,New Course: THAR 2140C
+THAR 3162,course-change,Course Change: THAR 3162
+UC 1130,course-create,New Course: UC 1130
+VICO 1414,course-create,New Course: VICO 1414
+VICO 1421,course-create,New Course: VICO 1421
+VICO 3141,course-change,Course Change: VICO 3141 / VICO 5141
+VICO 5141,course-change,Course Change: VICO 3141 / VICO 5141
+WGSS 2800,course-create,New Course: WGSS 2800
+WGSS 6020,course-create,New Course: WGSS 6020

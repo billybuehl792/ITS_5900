@@ -1,0 +1,128 @@
+﻿AH 4180,course-change,Course Change: AH 4180 / AH 5181 to AH 4180 / AH 5180,Contemporary East Asian Art
+CE 4000,course-change,Course Change: CE 4000,Societal Concerns in Civil Engineering
+CHE 1000,course-change,Course Change: CHE 1000,Introduction to Chemical Engineering
+COMS 7130,course-change,Course Change: COMS 7130,Language and Social Interaction Research Methods in Communication
+EDSE 4400C,course-change,Course Change: EDSE 4400 to EDSE 4400C,Secondary School Science Methods
+EDTE 6931C,course-change,Course Change: EDTE 6931 to EDTE 6931C,Methods for Teaching Earth/Life/ and Physical Science
+ENGT 2170,course-change,Course Change: ENGT 2170,Computer Numerical Control Machining Principles
+ES 6831,course-change,Course Change: ES 6831,Environmental Sustainability Assessment
+FILM 4440,course-change,Course Change: FILM 4440,Arts Management
+FILM 5440,course-change,Course Change: FILM 5440,Arts Management
+FILM 3810,course-change,Course Change: FILM 5810 to FILM 3810 / FILM 5810,Digital Editing I
+FILM 3820,course-change,Course Change: FILM 5820 to FILM 3820 / FILM 5820,Digital Editing II
+IART 3600J,course-change,Course Change: IART 3600J,Writing in the Arts
+INDO 5110,course-change,Course Change: INDO 5110,Elementary Indonesian I
+INDO 5930,course-change,Course Change: INDO 5930,Special Topics-Indonesian
+INST 2100,course-change,Course Change: INST 2100,Africa's Children
+MBA 6525,course-change,Course Change: MBA 6525,Ethics in the Global Environment
+MDIA 2202,course-change,Course Change: MDIA 2202,Non-Traditional Storytelling
+MUS 5000,course-change,Course Change: MUS 5000,Tonal Theory Review
+MGT 3250,course-change,Course Change: OPN 3150 to MGT 3250,Project Management
+SASM 6800,course-change,Course Change: SASM 6800,Sports Analytics
+,,,
+UC 1100,course-change,Course Change: UC 1100,Learning Strategies
+VICO 4386,course-change,Course Change: VICO 4386,Photojournalism Capstone
+ACCT 5010,course-create,New Course: ACCT 5010,Intermediate Accounting Concepts
+ACCT 6250,course-create,New Course: ACCT 6250,Forensic Accounting and Fraud Investigation
+ART 2110,course-create,New Course: ART 2110,Introduction to Code for Artists and Designers
+ART 3630,course-create,New Course: ART 3630,"Interior Architecture Pre-Profesional Internship
+
+"
+ART 3631,course-create,New Course: ART 3631,Interior Architecture Professional Internship
+ART 3632,course-create,New Course: ART 3632,Interior Architecture Post-Professional Internship Course
+BIOS 2225,course-create,New Course: BIOS 2225,"Microbes and Humans, Laboratory"
+CAS 5720,course-create,New Course: CAS 5720,Data Visualization and Communication
+,,,
+CHEM 5710,course-create,New Course: CHEM 5710,Graduate chemistry research training
+CHEM 8915,course-create,New Course: CHEM 8915,Advanced Seminar in Research Development and Leadership
+CTCH 1720,course-create,New Course: CTCH 1720,Computer Technologies in Research
+CTCH 2415,course-create,New Course: CTCH 2415,Microsoft C# Programming Language
+EDAD 6000,course-create,New Course: EDAD 6000,Foundational Awareness of Education Public Policy Issues
+EE 4763,course-create,New Course: EE 4763 / EE 5763,Wireless and Mobile Networks
+EMGT 6220,course-create,New Course: EMGT 6220,Data Acquisition and Predictive Analytics
+ENGT 1190,course-create,New Course: ENGT 1190,Manufacturing Materials and Processes
+ENGT 2100,course-create,New Course: ENGT 2100,Career Preparation in Engineering Technology
+ENGT 2230,course-create,New Course: ENGT 2230,Automation and Robotics
+ENGT 2250,course-create,New Course: ENGT 2250,Programmable Logic Controllers II and Motor Controls
+ENGT 2850,course-create,New Course: ENGT 2850,Lean Enterprise
+ENGT 2870,course-create,New Course: ENGT 2870,Safety management
+FAR 5100,course-create,New Course: FAR 5100,Introduction to Arts Administration
+FILM 2050,course-create,New Course: FILM 2050,Technical Toolbox I
+FILM 2060,course-create,New Course: FILM 2060,Technical Toolbox II
+FILM 2100,course-create,New Course: FILM 2100,FIlm Symposium
+FILM 2440,course-create,New Course: FILM 2440,Screenwriting l
+FILM 3110,course-create,New Course: FILM 3110,Filmmaking I
+FILM 3120,course-create,New Course: FILM 3120,Filmmaking II
+FILM 3150,course-create,New Course: FILM 3150,Film Studies 1
+FILM 3160,course-create,New Course: FILM 3160,Film Aesthetics
+FILM 3220,course-create,New Course: FILM 3220,Adaptation for the Screen
+FILM 3250,course-create,New Course: FILM 3250,Sound Techniques I
+FILM 3260,course-create,New Course: FILM 3260,Sound Techniques II
+FILM 3300,course-create,New Course: FILM 3300,Producing l
+FILM 3450,course-create,New Course: FILM 3450,Film Analysis
+FILM 3460,course-create,New Course: FILM 3460,Screenwriting ll
+FILM 3500,course-create,New Course: FILM 3500,Cinematography
+FILM 3640,course-create,New Course: FILM 3640,Video Art
+FILM 3720,course-create,New Course: FILM 3720,Art of Editing
+FILM 3750,course-create,New Course: FILM 3750,Directing
+FILM 4110,course-create,New Course: FILM 4110,Master Class l
+FILM 4120,course-create,New Course: FILM 4120,Master Class ll
+FILM 4130,course-create,New Course: FILM 4130,Advanced Cinematography
+FILM 4140,course-create,New Course: FILM 4140,Documentary Production Techniques
+FILM 4150,course-create,New Course: FILM 4150,Advanced Digital Editing
+FILM 4160,course-create,New Course: FILM 4160,Motion Picture Compositing
+FILM 4170,course-create,New Course: FILM 4170,Graphics Integration and Advanced Compositing
+FILM 4180,course-create,New Course: FILM 4180,Advanced Screenwriting l
+FILM 4190,course-create,New Course: FILM 4190,Advanced Screenwriting ll
+FILM 4300,course-create,New Course: FILM 4300,Producing ll
+GEOG 3031,course-create,New Course: GEOG 3031,Meteorological Observations
+HC 2400,course-create,New Course: HC 2400,Introduction to OHIO Honors
+HLTH 6001,course-create,New Course: HLTH 6001,Program Planning and Implementation in Rural Public Health
+INST 4701,course-create,New Course: INST 4701 / INST 5701,Global Professional Development 2
+INST 5020,course-create,New Course: INST 5020,Research Design and Methods for International Studies
+,,,
+"LPA 4630, ES 4630",course-create,New Course: LPA 4630 / ES 4630,"Science, Technology and Innovation Policy"
+MBA 6460,course-create,New Course: MBA 6460,Strategic Use of Analytics
+MBA 6490,course-create,New Course: MBA 6490,Predictive Analytics II
+MBA 6495,course-create,New Course: MBA 6495,"Data Management, Business Intelligence, and Analytics II"
+MBA 6924,course-create,New Course: MBA 6924,Analytics Practicum
+MDIA 3370,course-create,New Course: MDIA 3370,Critical Listening Skills & Technical Ear Training
+MDIA 5230,course-create,New Course: MDIA 5230,Virtual Reality Production: Interactive
+,,,
+MFE 6945,course-create,New Course: MFE 6945,Financial Research Report
+MGT 3270,course-create,New Course: MGT 3270,Sustainability and Supply Chain Management
+MKT 4600,course-create,New Course: MKT 4600,Brand Management
+MKT 4650,course-create,New Course: MKT 4650,New Product Development
+"MPA 5630, ES 5630",course-create,New Course: MPA 5630 / ES 5630,"Science, Technology and Innovation Policy"
+,,,
+MUS 3670,course-create,New Course: MUS 3670,Early Childhood Music Education
+,,,
+,,,
+,,,
+,,,
+,,,
+NUTR 4970,course-create,New Course: NUTR 4970,Seminar in Environmental Nutrition
+,,,
+PCOE 5901,course-create,New Course: PCOE 5901,TEACHER QUALITY MATTERS: OHIO'S SEVEN STANDARDS FOR TEACHING
+PT 8924,course-create,New Course: PT 8924,Extended Terminal Clinical Practicum
+REC 4570,course-create,New Course: REC 4570 / REC 5570,Adventure Travel as a Social Enterprise
+SASM 3180,course-create,New Course: SASM 3180,Sport Analytics
+SASM 4010,course-create,New Course: SASM 4010,Advanced Event Management
+SASM 4020,course-create,New Course: SASM 4020,Advanced Facility Management
+SASM 4140,course-create,New Course: SASM 4140,Business of eSports
+SASM 4193,course-create,New Course: SASM 4193,Sport and Environment
+SASM 4475,course-create,New Course: SASM 4475,Sport Tourist Behavior
+SASM 4915,course-create,New Course: SASM 4915,Sport Management Expedition
+SETS 5120,course-create,New Course: SETS 5120,Elementary Setswana II
+T3 4113,course-create,New Course: T3 4113 / BIOS 5113,Biological Pharmacology
+T3 4480,course-create,New Course: T3 4480,
+T3 4580,course-create,New Course: T3 4580,Applied Corporate Finance
+,,,
+THAR 5372,course-create,New Course: THAR 5372,Sound and Lighting Shop Management
+THAR 5410,course-create,New Course: THAR 5410,Introduction to Theater Management
+UC 1103,course-create,New Course: UC 1103,CAP Seminar for first year College Acheivement Program Students
+UC 1160,course-create,New Course: UC 1160,College Reading and Study Skils
+UC 2110C,course-create,New Course: UC 2110C,"UC 2110: Service-Learning Theory, Practice & Socio-Cultural Immersion"
+UC 2130,course-create,New Course: UC 2130,Multicultural Peer Mentors & Administrative Assistants Seminar
+UC 3100,course-create,New Course: UC 3100,Post-Baccalaureate Preparation Seminar
+VICO 3010,course-create,New Course: VICO 3010 / VICO 5010,Communicating with Data Visualization
