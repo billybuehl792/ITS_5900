@@ -14,6 +14,8 @@ class Employee:
     def getName(self):
         return(self.first + ' ' + self.last)
 
+    def getDirString(self):
+        return '{}: {}, {}, {}, {}'.format(self.empID, self.last, self.first, self.telNum, self.rmNum)
 
 class salEmployee(Employee):
     def __init__(self, empID, first, last, telNum, rmNum, sal):
@@ -21,8 +23,7 @@ class salEmployee(Employee):
         self.sal = sal
 
     def DirString(self):
-        return '{}: {}, {}, {}, {} | ${}'.format(self.empID, self.last, self.first, self.telNum, self.rmNum, self.sal)
-
+        return Employee.getDirString(self).ljust(44) + '| $' + self.sal
 
 
 class hrlyEmployee(Employee):
@@ -39,9 +40,9 @@ class hrlyEmployee(Employee):
     
     def DirString(self):
         owed = (float(self.hrsWorked) * float(self.hrlyRate))
-        return '{}: {}, {}, {}, {} | ${}'.format(self.empID, self.last, self.first, self.telNum, self.rmNum, owed)
+        #return '{}: {}, {}, {}, {} | ${}'.format(self.empID, self.last, self.first, self.telNum, self.rmNum, owed)
 
-
+        return Employee.getDirString(self).ljust(44) + '| $' + str(owed)
 
 
 # Employee Database
