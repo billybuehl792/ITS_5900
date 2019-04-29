@@ -11,19 +11,14 @@ def getOutput(cmd):
     return output
 
 routes = {
-    '/' : 'Buehl - ITS_5900 Advanced Final\n\nPages:\n- ifconfig\n- ps\n- ls',
+    '/' : 'Buehl - ITS_5900 Advanced Final\n\nPages:\n- ifconfig\n- ps\n- ls\n- pwd',
     '/ifconfig' : getOutput('ifconfig'),
     '/ps' : getOutput('ps'),
-    '/ls' : getOutput('ls')
+    '/ls' : getOutput('ls'),
+    '/pwd' : getOutput('pwd'),
 }
 
 class Server(BaseHTTPRequestHandler):
-    def do_HEAD(self):
-        return
-        
-    def do_POST(self):
-        return
-
     def do_GET(self):
         self.respond()
 
@@ -41,7 +36,6 @@ class Server(BaseHTTPRequestHandler):
         self.send_header('Content-type', content_type)
         self.end_headers()
         return bytes(response_content, 'UTF-8')
-
 
     def respond(self):
         content = self.handle_http()

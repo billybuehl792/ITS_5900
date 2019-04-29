@@ -10,11 +10,14 @@ PORT_NUMBER = 8080
 
 if __name__ == '__main__':
     httpd = HTTPServer((HOST_NAME, PORT_NUMBER), Server)
-    print(time.asctime(), 'Server UP - %s:%s' % (HOST_NAME, PORT_NUMBER))
+    timeOn = time.asctime()
+    print('{} - SERVER UP - {} | {}'.format(timeOn, HOST_NAME, PORT_NUMBER))
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
         pass
     httpd.server_close()
 
-print(time.asctime(), 'Server DOWN - %s:%s' % (HOST_NAME, PORT_NUMBER))
+timeOff = time.asctime()
+print('\n\n{} - SERVER DOWN - {} | {}'.format(timeOff, HOST_NAME, PORT_NUMBER))
+print('done.\n')
